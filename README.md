@@ -94,7 +94,7 @@ Hi 👋 My name is Tanawut Wongboot
     <img align="left" width="45%" src="https://image.thum.io/get/https://fsd5-group11-merry-match-ly5k.vercel.app/"/>
   </a>
     <a href="https://github.com/tanawutw03/qr-code-component-main" align="right">
-    <img align="right" width="45%" src="https://image.thum.io/get/https://product-preview-card-component-three-alpha.vercel.app/" />
+    <img align="right" width="45%" src="https://image.thum.io/get/https://qr-code-component-main-black-six.vercel.app/" />
   </a>
       
   <a href="https://github.com/tanawutw03/fsd5-group11-merry-match" align="left">
@@ -102,6 +102,22 @@ Hi 👋 My name is Tanawut Wongboot
   </a>
   <a href="https://github.com/tanawutw03/qr-code-component-main" align="right">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanawutw03&repo=qr-code-component-main&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+<div width="100%" align="center">
+  <a href="https://github.com/tanawutw03/fsd5-group11-merry-match" align="left">
+    <img align="left" width="45%" src="https://image.thum.io/get/https://product-preview-card-component-three-alpha.vercel.app/"/>
+  </a>
+    <a href="https://github.com/tanawutw03/qr-code-component-main" align="right">
+    <img align="right" width="45%" src="https://image.thum.io/get/https://results-summary-component-pi-two.vercel.app/" />
+  </a>
+      
+  <a href="https://github.com/tanawutw03/product-preview-card-component" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanawutw03&repo=product-preview-card-component&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/tanawutw03/results-summary-component" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tanawutw03&repo=results-summary-component&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
 
