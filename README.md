@@ -63,6 +63,7 @@ Hi 👋 My name is Tanawut Wongboot
   </a>
 </p> 
 
+<!--
 ### Socials  
 <p align="left"> 
   <a href="https://www.github.com/tanawutw03" target="_blank" rel="noreferrer"> 
@@ -80,6 +81,7 @@ Hi 👋 My name is Tanawut Wongboot
     </picture> 
   </a>
 </p>
+-->
 
 ### Badges
 
